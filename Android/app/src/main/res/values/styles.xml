@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Shape overlay for Result Card (Material 3) -->
+    <style name="ResultCardShape"
+        parent="ShapeAppearance.Material3.MediumComponent">
+
+        <item name="cornerFamily">rounded</item>
+
+        <item name="cornerSizeTopLeft">15dp</item>
+        <item name="cornerSizeTopRight">15dp</item>
+        <item name="cornerSizeBottomLeft">35dp</item>
+        <item name="cornerSizeBottomRight">35dp</item>
+        
+
+    </style>
+
+</resources>

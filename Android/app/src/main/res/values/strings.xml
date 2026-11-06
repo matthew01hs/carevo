@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Carevo</string>
+    <string name="press_to_stop">Press to stop</string>
+    <string name="press_to_record_letters">Press to record letters</string>
+    <string name="current_letter">Current Letter</string>
+    <string name="placeholder" translatable="false">PLACEHOLDER</string>
+    <string name="lang_english" translatable="false">English</string>
+    <string name="lang_indonesia" translatable="false">Indonesia</string>
+    <string name="space">SPACE</string>
+    <string name="delete">DELETE</string>
+    <string name="settings">Settings</string>
+    <string name="theme">Theme</string>
+    <string name="darkmode">Dark Mode</string>
+    <string name="lightmode">Light Mode</string>
+    <string name="systemdefault">System Default</string>
+    <string name="millisecond">(ms)</string>
+    <string name="holdduration">Hold Duration</string>
+    <string name="speechdelay">Speech Delay</string>
+    <string name="showSkeleton">Show Skeleton</string>
+    <string name="help">Help</string>
+
+
+</resources>

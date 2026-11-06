@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="card">#f2f2f2</color>
+    <color name="recordButton">#ff4a4a</color>
+    <color name="text">#262626</color>
+    <color name="background">#e6e6e6</color>
+    <color name="border">#AAAAAA</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="thumb">#333333</color>
+    <color name="activeTrack">#777777</color>
+    <color name="inactiveTrack">#E0E0E0</color>
+    <color name="activeTick">#444444</color>
+    <color name="inactiveTick">#999999</color>
+
+
+
+</resources>
